@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; My Portfolio</title>
+	<atom:link href="http://localhost/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/Portfolio</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 30 Jul 2021 15:54:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>An Iconic Marvel Character</title>
+		<link>/Portfolio/2021/07/30/an-iconic-marvel-character/</link>
+					<comments>/Portfolio/2021/07/30/an-iconic-marvel-character/#respond</comments>
+		
+		<dc:creator><![CDATA[ronrhino13]]></dc:creator>
+		<pubDate>Fri, 30 Jul 2021 15:54:49 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/Portfolio/?p=47</guid>
+
+					<description><![CDATA[<p>One of my personal interests is superheroes. Not just costumes or powers or their books and movies but the characters motivation. The most relatable and iconic hero that I favor the most is Spider-Man. When I was a kid, I first saw a picture of him on a VHS Tape. Overtime, I learned more about &#8230;</p>
+<p class="read-more"> <a class="" href="/Portfolio/2021/07/30/an-iconic-marvel-character/"> <span class="screen-reader-text">An Iconic Marvel Character</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="/Portfolio/2021/07/30/an-iconic-marvel-character/">An Iconic Marvel Character</a> appeared first on <a rel="nofollow" href="/Portfolio">My Portfolio</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="/Portfolio/wp-content/uploads/2021/07/Spider-man.png" alt="" class="wp-image-49" width="376" height="518" srcset="/Portfolio/wp-content/uploads/2021/07/Spider-man.png 729w, /Portfolio/wp-content/uploads/2021/07/Spider-man-218x300.png 218w" sizes="(max-width: 376px) 100vw, 376px" /></figure>
+
+
+
+<p>One of my personal interests is superheroes. Not just costumes or powers or their books and movies but the characters motivation. The most relatable and iconic hero that I favor the most is Spider-Man.</p>
+
+
+
+<p>When I was a kid, I first saw a picture of him on a VHS Tape. Overtime, I learned more about him, what his motivations were as a hero, and how I relate to the personal struggles he goes through every day. One thing that came to mind was how did this character become such an icon for Marvel? In the 1960&#8217;s, Marvel comics had began their superhero age with the Fantastic Four, Daredevil, X-Men, and many more. It was co-creator Stan Lee that came up with the idea for Spider-Man after he saw a fly on the wall and though of different insect heroes.</p>
+
+
+
+<p>When it came to Spider-Man, Stan decided to make his hero stand out from the rest as a teenager but publisher Martin Goodman felt that it wouldn&#8217;t be a good decision. Stan fought hard for his hero character and Goodman decided to publish the story in Amazing Fantasy comics issue 15. When it was released, the story of Spider-Man became one of the most popular and best selling comics at the time. Eventually, Marvel released Spider-Man&#8217;s first official comic in 1963.</p>
+
+
+
+<p>Over the next 50 years, Spider-Man continues to inspire comic book readers and movie goers to learn that we have responsibilities within our lives and we have the power to take care of them.</p>
+<p>The post <a rel="nofollow" href="/Portfolio/2021/07/30/an-iconic-marvel-character/">An Iconic Marvel Character</a> appeared first on <a rel="nofollow" href="/Portfolio">My Portfolio</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/Portfolio/2021/07/30/an-iconic-marvel-character/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>/Portfolio/2021/07/08/hello-world/</link>
+					<comments>/Portfolio/2021/07/08/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[ronrhino13]]></dc:creator>
+		<pubDate>Thu, 08 Jul 2021 13:24:05 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/Portfolio/?p=1</guid>
+
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="/Portfolio/2021/07/08/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="/Portfolio">My Portfolio</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="/Portfolio/2021/07/08/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="/Portfolio">My Portfolio</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/Portfolio/2021/07/08/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
